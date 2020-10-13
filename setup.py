@@ -16,8 +16,8 @@ setup(
     url="https://github.com/obikag/caribbean-outbreak-tracker",
     packages=find_packages(exclude=["testproject"]),
     install_requires=[
-        "Django >= 2.0"
-        #TODO Insert Django Countries
+        "Django>=2.0",
+        "django-countries>=6.0,<7.0"
     ],
     classifiers=[
         "Development Status :: 3 - Alpha",
