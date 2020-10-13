@@ -64,11 +64,11 @@ Navigate to the project's admin site to access the models and enter the relevant
 
 ## Documentation
 
-Comming Soon
+Coming Soon
 
 ## Testing
 
-Comming Soon
+Coming Soon
 
 ## Contributing
 

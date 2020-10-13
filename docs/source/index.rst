@@ -7,9 +7,11 @@ Welcome to Caribbean Outbreak Tracker's documentation!
 ======================================================
 
 .. toctree::
-   :maxdepth: 2
    :caption: Contents:
 
+   intro
+   history
+   code_of_conduct
 
 
 Indices and tables
