@@ -2,7 +2,7 @@
 
 [![forthebadge made-with-python][1]](https://www.python.org/)
 
-![python][2] [![MIT license][3]](https://lbesson.mit-license.org/)
+[![python][2]](https://www.python.org/) [![Documentation Status][3]](https://caribbean-outbreak-tracker.readthedocs.io/en/latest/) [![MIT license][4]](https://lbesson.mit-license.org/)
 
 ## Introduction
 
@@ -84,4 +84,5 @@ Prior to contributing to this project, kindly read the [code of conduct](https:/
 
 [1]: https://forthebadge.com/images/badges/made-with-python.svg
 [2]: https://img.shields.io/badge/python-3.6-blue
-[3]: https://img.shields.io/badge/License-MIT-blue.svg
+[3]: https://readthedocs.org/projects/caribbean-outbreak-tracker/badge/?version=latest
+[4]: https://img.shields.io/badge/License-MIT-blue.svg
