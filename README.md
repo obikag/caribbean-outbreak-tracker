@@ -64,7 +64,9 @@ Navigate to the project's admin site to access the models and enter the relevant
 
 ## Documentation
 
-Coming Soon
+Documentation can be found here:
+
+<https://caribbean-outbreak-tracker.readthedocs.io/en/latest/>
 
 ## Testing
 
@@ -73,6 +75,8 @@ Coming Soon
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Prior to contributing to this project, kindly read the [code of conduct](https://caribbean-outbreak-tracker.readthedocs.io/en/latest/code_of_conduct.html).
 
 ## License
 

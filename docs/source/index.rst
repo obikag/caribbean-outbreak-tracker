@@ -9,7 +9,11 @@ Welcome to Caribbean Outbreak Tracker's documentation!
 .. toctree::
    :caption: Contents:
 
-   intro
+   introduction
+   installation
+   models
+   views
+   testing
    history
    code_of_conduct
 
